@@ -12,7 +12,7 @@ class Singleton1 {
     }
 }
 
-console.log(Singleton1.getInstance(), '1111');
+console.log(Singleton1.getInstance(), '11111');
 
 // 懒汉式
 class Singleton2 {
@@ -29,4 +29,4 @@ class Singleton2 {
     }
 }
 
-console.log(Singleton2.getInstance(), '222')
+console.log(Singleton2.getInstance(), '2222')
